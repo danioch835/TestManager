@@ -13,8 +13,7 @@ public class PlayerTest {
 	@Test
 	public void getNameTest() {
 		DataReader dataReader = new ExcelDataReader("test.xls");
-		Player player = new Player(dataReader);
-		player.loadName();
+		Player player = new Player();
 		assertEquals("Daniel", player.getName());
 	}
 
