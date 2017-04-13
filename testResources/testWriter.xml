@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+	<test>
+		<name>TESTY SPRAWNOŚĆI OGÓLNEJ</name>
+		<category>SZYBKOŚĆ</category>
+		<category>ZWINNOŚĆ</category>
+		<category>MOC KOŃCZYN GÓRNYCH</category>
+		<category>MOC KOŃCZYN DOLNYCH</category>
+	</test>
+	<test>
+		<name>TESTY SPRAWNOŚĆI SPECJALNEJ</name>
+		<category>UDERZENIE NA BRAMKĘ Z DALEKA</category>
+		<category>SLALOM</category>
+		<category>ŻONGLERKA</category>
+		<category>UDERZENIE O ŁAWECZKĘ</category>
+	</test>
+
+</tests>

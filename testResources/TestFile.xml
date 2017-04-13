@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<positions>
+	<index>
+		<name>test dates</name>
+		<row>1</row>
+		<column>5</column>
+		<columnLength>2</columnLength>
+	</index>
+	<index>
+		<name>exercises names</name>
+		<row>2</row>
+		<column>5</column>
+	</index>
+	<index>
+		<name>results</name>
+		<row>3</row>
+		<column>5</column>
+	</index>
+	<index>
+		<name>players</name>
+		<row>3</row>
+		<column>2</column>
+		<columnLength>3</columnLength>
+	</index>
+</positions>
